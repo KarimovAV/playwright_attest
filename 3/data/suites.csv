@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Aug 20 20:07:35 GMT 2024","Tue Aug 20 20:07:42 GMT 2024","7540","tests","test_go_to_pages","TestGoPagesFromMain","","","test_open_webinars",""
+"passed","Tue Aug 20 20:07:27 GMT 2024","Tue Aug 20 20:07:35 GMT 2024","7594","tests","test_go_to_pages","TestGoPagesFromMain","","","test_open_blog",""
+"passed","Tue Aug 20 20:07:19 GMT 2024","Tue Aug 20 20:07:27 GMT 2024","7806","tests","test_go_to_pages","TestGoPagesFromMain","","","test_open_feedback",""
