@@ -7,7 +7,7 @@ from pages.main_page import MainPage
 
 @pytest.fixture(scope="function")
 def browser_page(playwright: Playwright) -> Page:
-    browser = playwright.chromium.launch(headless=False)
+    browser = playwright.chromium.launch(headless=True)
     context = browser.new_context()
     yield context.new_page()
     context.close()
