@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Aug 22 17:11:02 GMT 2024","Thu Aug 22 17:11:33 GMT 2024","30821","tests","Проверка ссылок на главной странице Иннополиса","TestGoPagesFromMain","","","Успешный переход в раздел Отзыв из меню главной страницы",""
+"broken","Thu Aug 22 17:12:04 GMT 2024","Thu Aug 22 17:12:35 GMT 2024","30403","tests","Проверка ссылок на главной странице Иннополиса","TestGoPagesFromMain","","","Успешный переход в раздел Вебинары из меню главной страницы",""
+"broken","Thu Aug 22 17:11:34 GMT 2024","Thu Aug 22 17:12:04 GMT 2024","30363","tests","Проверка ссылок на главной странице Иннополиса","TestGoPagesFromMain","","","Успешный переход в раздел Блог из меню главной страницы",""
